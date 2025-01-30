@@ -1,5 +1,5 @@
-# turborepo-practice
-Turborepoを使ってモノレポ管理してみる
+# yarn-turborepo-practice
+Yarn Workspaces × Turborepoを使ってモノレポ管理してみる
 
 Yarn Workspacesで以下が可能
 - ライブラリの共通化
