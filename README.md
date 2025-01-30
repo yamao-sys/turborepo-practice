@@ -17,6 +17,8 @@ Yarn Workspacesで以下が可能
 
 (https://tech.delm0.jp/entry/2023/05/29/161202)
 
+※ ちなみにTurborepo公式ではpnpmを推奨しているもよう。ポリレポからモノレポに変えたいというタイミングでその企業で使用しているパッケージ管理ツールでWorkspacesを作ることになりそう。
+
 ## 参考
 - https://zenn.dev/lancers/articles/3648d3b1752f51
 - https://techblog.roxx.co.jp/entry/2022/08/08/130000
