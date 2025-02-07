@@ -32,3 +32,4 @@ Yarn Workspacesで以下が可能
 - https://techblog.roxx.co.jp/entry/2022/08/08/130000
 - https://techblog.roxx.co.jp/entry/2019/08/16/140000
 - https://zenn.dev/moneyforward/articles/2645c956df1d26
+- https://zenn.dev/glassonion1/articles/734b8db0f5a47e
